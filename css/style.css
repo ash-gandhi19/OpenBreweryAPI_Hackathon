@@ -67,4 +67,24 @@ p.center.title {
         margin: 0;
         border: 5px solid #166cb6;
     }
+
+    #maincontainer {
+        background: linear-gradient(
+    45deg, #044fd3, #63ea41);
+    }
+}
+
+@media screen and (max-width:1024px) {
+
+    h1#main {
+        padding: 8px;
+        border: 5px solid #166cb6;
+        margin: 0;
+        border: 5px solid #166cb6;
+    }
+
+    #maincontainer {
+        background:linear-gradient(
+            45deg, #044fd3, #9dee7b)
+    }
 }
