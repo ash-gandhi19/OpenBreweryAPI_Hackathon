@@ -41,7 +41,8 @@ h1#main {
   border-radius: 25px;
   margin-top: 10px;
   border: 1px solid #b821a5;
-  background: linear-gradient(45deg, #8707fff2, transparent);
+  background: linear-gradient(
+    45deg, #ff07f7f2, var(--bs-red));
 }
 p {
   text-align: left;
