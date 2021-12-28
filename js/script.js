@@ -1,6 +1,6 @@
 "use strict";
 let h1_tag = document.createElement("h1");
-let h1_text = document.createTextNode("Breweries List");
+let h1_text = document.createTextNode("Brewery List");
 h1_tag.className = "heading-container";
 h1_tag.id = "main";
 h1_tag.appendChild(h1_text);
