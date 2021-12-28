@@ -58,3 +58,13 @@ p.center.title {
   text-decoration: underline;
   font-style: initial;
 }
+
+@media screen and (max-width:750px) {
+
+    h1#main {
+        padding: 8px;
+        border: 5px solid #166cb6;
+        margin: 0;
+        border: 5px solid #166cb6;
+    }
+}
